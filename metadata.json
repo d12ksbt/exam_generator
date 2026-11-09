@@ -1,0 +1,8 @@
+{
+  "name": "Neo Exam Generator",
+  "description": "Aplikasi pembuat soal ujian otomatis untuk SMK (Pilihan Ganda \u0026 Uraian) menggunakan Gemini AI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
